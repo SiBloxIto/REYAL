@@ -174,15 +174,15 @@ RRRR   EEEEE  Y   Y  AAAAA  L
 R   R  E       Y Y   A   A  L
 RRRR   EEEE     Y    AAAAA  L
 R  R   E        Y    A   A  L
-R   R  EEEEE    Y    A   A  LLLLL
-~{BLUE}X {RED}XD {WHITE}
+R   R  EEEEE    Y    A   A  LLLLL PRO
+~{RED}X {GREEN}XD {BLUE}
 
 \t[×] Developed By BLOX{EXTRA} (LANG)
 {WHITE}[•] AUTHOR       : Basta Si Blox
 {WHITE}[•] STYLE         : 1.0
 {WHITE}[•] WhatsApp     :   +9672947553
 [•] FaceBook     :   Clementine Shofee
-[•] Version      :   {BLUE}1.1
+[•] Version      :   {BLUE}1.2
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
 
 {WHITE}================================================
