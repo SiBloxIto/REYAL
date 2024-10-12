@@ -1,16 +1,48 @@
-import time, sys
+import sys
+import time
 
+# Function to display a loading bar animation
 def loading_animation():
+    bar_length = 40  # Length of the loading bar
     for i in range(101):
         time.sleep(0.05)  # Adjust speed of loading here
-        sys.stdout.write(f"\rLoading... {i}%")
+        filled_length = int(bar_length * i // 100)
+        bar = '█' * filled_length + '-' * (bar_length - filled_length)
+        sys.stdout.write(f'\rLoading... |{bar}| {i}%')
         sys.stdout.flush()
+    sys.stdout.write("\n")
 
-# Call loading animation
+# Function to display a large green check mark
+def green_check():
+    check_mark = """
+       \033[1;32m
+        ████████                            
+     ████      ████                         
+   ████          ████                       
+  ████            ████                      
+ ████              ████                     
+████                ████                    
+████████████████████████                    
+████████████████████████                    
+████                    ████                
+████                    ████                
+ ████                  ████                 
+  ████                ████                  
+   ████              ████                   
+     ████          ████                     
+       ██████████████                       
+          \033[0m
+    """
+    print(check_mark)
+
+# Start loading animation
 loading_animation()
 
-# After loading completes, clear line and run the main program
+# Clear line after loading
 sys.stdout.write("\rLoading complete!            \n")
+
+# Show green check after loading
+green_check()
 
 # Main program starts here
 # Open Source By SYED-ZADA
@@ -230,7 +262,7 @@ def menu():
                         if xd in ['1','01']:
                                 clear()
                                 
-                                print(' PUT FILE EXAMPLE :  /sdcard/File.trt.etc..')
+                                print(' PUT FILE EXAMPLE :  /sdcard/File.txt.etc..')
                                 linex()
                                 file = input(' PUT FILE PATH\033[1;37m: ')
                                 try:
@@ -240,21 +272,21 @@ def menu():
                                         time.sleep(1)
                                         menu()
                                 clear()
-                                print('[1] METHOD NEW (1)')
-                                print('[2] METHOD OLD/NEW (2)')
-                                print('[3] METHOD OLD (3)')
+                                print('[1] METHOD NEW 6155 (1)')
+                                print('[2] METHOD OLD/NEW 6155/1000(2)')
+                                print('[3] METHOD OLD 1000 (3)')
                                 linex()
                                 mthd=input(' CHOOSE : ')
                                 linex()
                                 clear()
                                 plist = []
                                 try:
-                                        ps_limit = int(input(' HOW MANY PASSWORDS DO YOU WANT TO ADD ? '))
+                                        ps_limit = int(input(' Amount of passlist you want to put: '))
                                 except:
-                                        ps_limit =1
+                                        ps_limit =2
                                 linex()
                                 clear()
-                                print('\033[1;32m EXAMPLE : first last,firtslast,first123')
+                                print('\033[1;32m EXAMPLE ONLY : first last,firstlast,first123')
                                 linex()
                                 for i in range(ps_limit):
                                         plist.append(input(f' PUT PASSWORD {i+1}: '))
@@ -285,7 +317,7 @@ def menu():
                                                         crack_submit.submit(api1,ids,names,passlist)
                                 print('\033[1;37m')
                                 linex()
-                                print(' THE PROCESS HAS COMPLETED')
+                                print(' THE PROCESS HAS BEEN COMPLETED')
                                 print(' Total GG/CP: '+str(len(oks))+'/'+str(len(cps)))
                                 linex()
                                 input(' PRESS ENTER TO BACK ')
