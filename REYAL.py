@@ -244,36 +244,64 @@ def fire_animation():
         sys.stdout.write('\r' + ' ' * len(frame))  # Clear the line
 
 # LED Text-like logo
-logo = f"""{BLUE}
-  RRRR    EEEEE   Y   Y    AAAAA    L
-  R   R   E        Y Y     A   A    L
-  RRRR    EEEE      Y      AAAAA    L
-  R  R    E         Y      A   A    L
-  R   R   EEEEE     Y      A   A    LLLLL PRO
-  ~{RED}X {GREEN}XD {BLUE}
+import time
+import sys
 
-\t{EXTRA}[×] Developed By BLOX (LANG)
+# Colors for terminal
+BLUE = '\033[94m'
+RED = '\033[91m'
+GREEN = '\033[92m'
+EXTRA = '\x1b[38;5;208m'
+WHITE = '\033[97;1m'
+YELLOW = '\033[93m'
+RESET = '\033[0m'
+
+# Function to simulate fire animation in text
+def fire_animation():
+    fire = [
+        f"{RED}     (    ) )    ) ) (       {YELLOW}",
+        f"{YELLOW}     ) ) (   )   )  (   )    {RED}",
+        f"{RED}   (  (  (     )   ) (  (    {YELLOW}",
+        f"{YELLOW}    )  ) (  (     (    ) )   {RED}",
+    ]
+    for _ in range(5):  # Number of loops for the animation
+        for frame in fire:
+            sys.stdout.write(f'\r{frame}{RESET}')  # Display fire frame
+            sys.stdout.flush()
+            time.sleep(0.2)  # Speed of fire flicker
+        sys.stdout.write('\r' + ' ' * len(frame))  # Clear the line
+
+# LED-style logo for the app
+logo = f"""{BLUE}
+RRRR   EEEEE  Y   Y  AAAAA  L
+R   R  E       Y Y   A   A  L
+RRRR   EEEE     Y    AAAAA  L
+R  R   E        Y    A   A  L
+R   R  EEEEE    Y    A   A  LLLLL PRO
+~{RED}X {GREEN}XD {BLUE}
+
+\t{EXTRA}[×] Developed By BLOX{EXTRA} (LANG)
 {WHITE}[•] AUTHOR        : Basta Si Blox
 {WHITE}[•] STYLE         : 1.2
 [•] FaceBook     :   Blox
 [•] Version      :   {BLUE}1.2
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
-========================================================
-   \33[37;41m\t BLOX \33[0;m
-========================================================{RESET}
+{WHITE}================================================
+   \033[37;41m\t BLOX \033[0m
+{WHITE}================================================
 """
 
-# Function to print the LED text logo
+# Function to print the logo after the fire animation
 def print_logo():
     sys.stdout.write(logo)
     sys.stdout.flush()
 
-# Function to print the enhanced logo with fire animation
+# Function to print both fire animation and logo
 def enhanced_logo():
-    fire_animation()  # Start fire animation
-    print_logo()  # Print the large LED-style logo
+    fire_animation()  # Display fire effect
+    print_logo()  # Display the LED-style logo
 
-# Call the function to display the enhanced logo
+# Call the function to display both animations and the logo
 enhanced_logo()
 def linex():
     print('\033[1;37m----------------------------------------------')
