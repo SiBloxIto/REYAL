@@ -272,37 +272,24 @@ def fire_animation():
         sys.stdout.write('\r' + ' ' * len(frame))  # Clear the line
 
 # LED-style logo for the app
-logo = f"""{BLUE}
+logo=(f"""{BLUE}
 RRRR   EEEEE  Y   Y  AAAAA  L
 R   R  E       Y Y   A   A  L
 RRRR   EEEE     Y    AAAAA  L
 R  R   E        Y    A   A  L
-R   R  EEEEE    Y    A   A  LLLLL PRO
-~{RED}X {GREEN}XD {BLUE}
+R   R  EEEEE    Y    A   A  LLLLL 
+~{RED}X {GREEN} {BLUE}
 
-\t{EXTRA}[×] Developed By BLOX{EXTRA} (LANG)
-{WHITE}[•] AUTHOR        : Basta Si Blox
+\t[×] Developed By BLOX{EXTRA} (LANG)
+{WHITE}[•] AUTHOR       : Basta Si Blox
 {WHITE}[•] STYLE         : 1.2
 [•] FaceBook     :   Blox
 [•] Version      :   {BLUE}1.2
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
+
 {WHITE}================================================
-   \033[37;41m\t BLOX \033[0m
-{WHITE}================================================
-"""
-
-# Function to print the logo after the fire animation
-def print_logo():
-    sys.stdout.write(logo)
-    sys.stdout.flush()
-
-# Function to print both fire animation and logo
-def enhanced_logo():
-    fire_animation()  # Display fire effect
-    print_logo()  # Display the LED-style logo
-
-# Call the function to display both animations and the logo
-enhanced_logo()
+   \33[37;41m\t BLOX \33[0;m
+{WHITE}=================================================""")
 def linex():
     print('\033[1;37m----------------------------------------------')
 def clear():
