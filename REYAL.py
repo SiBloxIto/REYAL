@@ -1,3 +1,18 @@
+import time, sys
+
+def loading_animation():
+    for i in range(101):
+        time.sleep(0.05)  # Adjust speed of loading here
+        sys.stdout.write(f"\rLoading... {i}%")
+        sys.stdout.flush()
+
+# Call loading animation
+loading_animation()
+
+# After loading completes, clear line and run the main program
+sys.stdout.write("\rLoading complete!            \n")
+
+# Main program starts here
 # Open Source By SYED-ZADA
 
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
@@ -147,7 +162,7 @@ device = {
         'fbsv':fbsv,
         'fbca':fbca,
         'fbdm':fbdm}
-os.system('xdg-open https://www.facebook.com/profile.php?id=100095345508213')
+os.system('xdg-open https://www.facebook.com/')
 ##______COLORS____ARE________######
 pwx=[]
 W = '\033[97;1m'
@@ -179,9 +194,8 @@ R   R  EEEEE    Y    A   A  LLLLL PRO
 
 \t[×] Developed By BLOX{EXTRA} (LANG)
 {WHITE}[•] AUTHOR       : Basta Si Blox
-{WHITE}[•] STYLE         : 1.0
-{WHITE}[•] WhatsApp     :   +9672947553
-[•] FaceBook     :   Clementine Shofee
+{WHITE}[•] STYLE         : 1.2
+[•] FaceBook     :   Blox
 [•] Version      :   {BLUE}1.2
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
 
