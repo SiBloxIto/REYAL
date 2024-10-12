@@ -216,24 +216,65 @@ BLACK="\033[1;30m"
 EXTRA ='\x1b[38;5;208m'
 #________________________________________#
 
-logo=(f"""{BLUE}
-RRRR   EEEEE  Y   Y  AAAAA  L
-R   R  E       Y Y   A   A  L
-RRRR   EEEE     Y    AAAAA  L
-R  R   E        Y    A   A  L
-R   R  EEEEE    Y    A   A  LLLLL PRO
-~{RED}X {GREEN}XD {BLUE}
+import time
+import sys
 
-\t[×] Developed By BLOX{EXTRA} (LANG)
-{WHITE}[•] AUTHOR       : Basta Si Blox
+# Colors for terminal
+BLUE = '\033[94m'
+RED = '\033[91m'
+GREEN = '\033[92m'
+EXTRA = '\x1b[38;5;208m'
+WHITE = '\033[97;1m'
+YELLOW = '\033[93m'
+RESET = '\033[0m'
+
+# Function to simulate fire animation
+def fire_animation():
+    fire = [
+        f"{RED} (  (     ) )    (      (   ",
+        f"{YELLOW}    ) ) (   )   )    ( ) ( ",
+        f"{RED} ( (    (  )     (  (   (  ",
+        f"{YELLOW}     ) )   ( ) (  (   )    ",
+    ]
+    for i in range(5):  # Number of loops for animation
+        for frame in fire:
+            sys.stdout.write(f'\r{frame}{RESET}')  # Fire frame
+            sys.stdout.flush()
+            time.sleep(0.2)
+        sys.stdout.write('\r' + ' ' * len(frame))  # Clear the line
+
+# LED Text-like logo
+logo = f"""{BLUE}
+  RRRR    EEEEE   Y   Y    AAAAA    L
+  R   R   E        Y Y     A   A    L
+  RRRR    EEEE      Y      AAAAA    L
+  R  R    E         Y      A   A    L
+  R   R   EEEEE     Y      A   A    LLLLL PRO
+  ~{RED}X {GREEN}XD {BLUE}
+
+\t{EXTRA}[×] Developed By BLOX (LANG)
+{WHITE}[•] AUTHOR        : Basta Si Blox
 {WHITE}[•] STYLE         : 1.2
 [•] FaceBook     :   Blox
 [•] Version      :   {BLUE}1.2
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
-
-{WHITE}================================================
+========================================================
    \33[37;41m\t BLOX \33[0;m
-{WHITE}=================================================""")
+========================================================{RESET}
+"""
+
+# Function to print the LED text logo
+def print_logo():
+    sys.stdout.write(logo)
+    sys.stdout.flush()
+
+# Function to print the enhanced logo with fire animation
+def enhanced_logo():
+    fire_animation()  # Start fire animation
+    print_logo()  # Print the large LED-style logo
+
+# Call the function to display the enhanced logo
+enhanced_logo()
 def linex():
     print('\033[1;37m----------------------------------------------')
 def clear():
@@ -333,7 +374,7 @@ def menu():
 def pak():
                 user=[]
                 clear()
-                print('\033[1;31m CODE EXAMPLE : 0306,0315,0335,0345')
+                print('\033[1;31m CODE EXAMPLE : 0920,639,+639,992')
                 code = input('\033[1;37m PUT CODE: ')
                 try:
                         limit = int(input('\033[1;31m EXAMPLE : 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT : '))
