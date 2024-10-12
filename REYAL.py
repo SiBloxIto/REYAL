@@ -194,7 +194,7 @@ device = {
         'fbsv':fbsv,
         'fbca':fbca,
         'fbdm':fbdm}
-os.system('xdg-open https://www.facebook.com/')
+os.system()
 ##______COLORS____ARE________######
 pwx=[]
 W = '\033[97;1m'
