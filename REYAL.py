@@ -282,9 +282,9 @@ R   R  EEEEE    Y    A   A  LLLLL
 
 \t[×] Developed By BLOX{EXTRA} (LANG)
 {WHITE}[•] AUTHOR       : Basta Si Blox
-{WHITE}[•] STYLE         : 1.2
+{WHITE}[•] STYLE         : 1.3
 [•] FaceBook     :   Blox
-[•] Version      :   {BLUE}1.2
+[•] Version      :   {BLUE}1.3
 {WHITE}[•] Github      :   https://github.com/SiBloxIto/
 
 {WHITE}================================================
