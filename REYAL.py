@@ -62,7 +62,7 @@ except ModuleNotFoundError:
     os.system('pip install requests bs4 futures==2 > /dev/null')
     os.system('python BLOX.py')
 	
-os.system('xdg-open https://github.com/SiBloxIto/')
+# os.system('xdg-open https://github.com/SiBloxIto/')
 
 try:
     prox= requests.get('https://raw.githubusercontent.com/trt-Fire/data/main/proxies.txt').text
