@@ -1,666 +1,666 @@
-Dalvik/2.1.0 (Linux; U; Android 6; RMX8712 Build/M4XD44)
-Dalvik/2.1.0 (Linux; U; Android 10; Sony Xperia U323F Build/QQ3A.398148.030)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei T933T Build/RQ1D.261484.075)
-Dalvik/2.1.0 (Linux; U; Android 13; Huawei W395 Max Build/TP1A.483339.093)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha P229N Build/PQ1A.204988.019)
-Dalvik/2.1.0 (Linux; U; Android 9; Itel 762T Build/PQ2A.506426.051)
-Dalvik/2.1.0 (Linux; U; Android 5; Sony Xperia T535 Ultra Build/LOB6EV)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei X749 Build/MDMWGP)
-Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia 774C Build/OPM3.121936.072)
-Dalvik/2.1.0 (Linux; U; Android 5; Vivo N623 Build/L6XNR6)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 435 Max Build/MUM06E)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei I360 Pro Build/M8QRC1)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei T558 Max Build/MH0Y5V)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia Asha L312 Pro Build/RQ1D.683765.013)
-Dalvik/2.1.0 (Linux; U; Android 12; Infinix 756J Build/SQ1D.790546.087)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia 936B Build/RD2A.764027.067)
-Dalvik/2.1.0 (Linux; U; Android 7; LM-344 Pro Build/NS3Y6Z)
-Dalvik/2.1.0 (Linux; U; Android 14; Huawei 410 Max Build/TQ2A.428100.073)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei 911 Ultra Build/OPR6.244529.053)
-Dalvik/2.1.0 (Linux; U; Android 6; SM-S722B Build/MS12WF)
-Dalvik/2.1.0 (Linux; U; Android 5; Huawei C317Q Build/LX63N7)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei 842T Build/RQ3A.984431.022)
-Dalvik/2.1.0 (Linux; U; Android 12; Realme B984 Max Build/SQ1A.564492.061)
-Dalvik/2.1.0 (Linux; U; Android 8; Oppo L201T Build/OPM5.119752.063)
-Dalvik/2.1.0 (Linux; U; Android 11; Honor 472T Build/RQ1C.744398.070)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi W546 Max Build/TD1A.310868.075)
-Dalvik/2.1.0 (Linux; U; Android 11; Oppo 606S Build/RQ3A.492365.098)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo 307 Max Build/SQ1D.632796.051)
-Dalvik/2.1.0 (Linux; U; Android 10; Oppo 275D Build/QQ3A.874596.069)
-Dalvik/2.1.0 (Linux; U; Android 6; Realme 140 Build/MRVTSV)
-Dalvik/2.1.0 (Linux; U; Android 7; LG-559O Build/NQULXT)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia Asha K475 Build/OPD3.607501.033)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note 826 Build/TQ1A.695434.099)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX4286 Build/OPM6.567648.021)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel B347D Build/RQ1C.288346.099)
-Dalvik/2.1.0 (Linux; U; Android 6; Itel 579L Build/M0YFY8)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX9772 Build/OPD3.664429.072)
-Dalvik/2.1.0 (Linux; U; Android 14; Oppo 778 Ultra Build/TQ1A.705560.016)
-Dalvik/2.1.0 (Linux; U; Android 9; LG-836M Build/PQ3B.950705.013)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme L186 Max Build/QQ1A.456243.017)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 183 Max Build/PD2A.859639.056)
-Dalvik/2.1.0 (Linux; U; Android 8; Itel M867 Build/OPM4.737218.095)
-Dalvik/2.1.0 (Linux; U; Android 15; LM-E70 Max Build/TD1A.669351.043)
-Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 267M Build/QQ1C.258658.080)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-199F Build/TQ1A.937872.039)
-Dalvik/2.1.0 (Linux; U; Android 11; Mi O734 Max Build/RQ3A.535062.040)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor 550 Pro Build/OPM4.723784.071)
-Dalvik/2.1.0 (Linux; U; Android 4; Infinix 768T Build/JE8BWB)
-Dalvik/2.1.0 (Linux; U; Android 5; Vivo Y635 Ultra Build/LX7ZT1)
-Dalvik/2.1.0 (Linux; U; Android 9; Sony Xperia M388 Ultra Build/PQ3A.484691.079)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia Asha 370J Build/NGQ01W)
-Dalvik/2.1.0 (Linux; U; Android 4; Infinix 559 Ultra Build/J6EJZ3)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi X221 Ultra Build/L3QD9S)
-Dalvik/2.1.0 (Linux; U; Android 6; Infinix E525 Max Build/MZX516)
-Dalvik/2.1.0 (Linux; U; Android 10; Oppo 120 Ultra Build/QQ1C.877343.081)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi X133 Ultra Build/TQ2A.965940.081)
-Dalvik/2.1.0 (Linux; U; Android 10; Sony Xperia 457J Build/QQ1D.727307.066)
-Dalvik/2.1.0 (Linux; U; Android 7; Huawei K448 Pro Build/N0PNMD)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor 454 Ultra Build/OPD2.343969.020)
-Dalvik/2.1.0 (Linux; U; Android 11; Mi 27 Ultra Build/RP1A.491670.052)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme B273T Build/OPD2.341266.097)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Y756M Build/L8HNI2)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX5400 Build/TQ1A.888259.028)
-Dalvik/2.1.0 (Linux; U; Android 12; SM-M362D Build/SD2A.365367.027)
-Dalvik/2.1.0 (Linux; U; Android 8; Infinix Y520 Ultra Build/OPM4.768905.024)
-Dalvik/2.1.0 (Linux; U; Android 7; Realme X242H Build/N3GBKH)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia NV397Q Build/MT8W5U)
-Dalvik/2.1.0 (Linux; U; Android 4; Redmi Note 62 Max Build/J73TBB)
-Dalvik/2.1.0 (Linux; U; Android 4; Redmi 266 Ultra Build/J7RS0D)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia NF303T Build/OPM1.353542.060)
-Dalvik/2.1.0 (Linux; U; Android 13; Itel 537 Build/TD1A.221000.028)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-357G Build/TQ2A.418095.049)
-Dalvik/2.1.0 (Linux; U; Android 5; Honor 478 Build/LSEILS)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi 339 Build/NP7TFL)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia Asha O693F Build/JRTUW7)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha 287T Build/PPR2.126084.030)
-Dalvik/2.1.0 (Linux; U; Android 8; Infinix P582 Pro Build/OPD3.887246.056)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-562F Build/TQ1A.719747.060)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia Asha P467 Max Build/TQ1A.152568.028)
-Dalvik/2.1.0 (Linux; U; Android 6; Honor 670Q Build/MSBPK8)
-Dalvik/2.1.0 (Linux; U; Android 15; Oppo 450 Pro Build/TQ1A.846473.065)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi K888 Max Build/TP1A.598520.089)
-Dalvik/2.1.0 (Linux; U; Android 4; SM-N987D Build/JISPQR)
-Dalvik/2.1.0 (Linux; U; Android 7; Itel C116T Build/N0EL6I)
-Dalvik/2.1.0 (Linux; U; Android 7; Sony Xperia X328 Build/N1SJ4N)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi 351 Pro Build/NBCXM1)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Note 314T Build/L1PIJJ)
-Dalvik/2.1.0 (Linux; U; Android 14; LM-J245 Build/TQ1A.624483.038)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia NO138T Build/OPM6.635618.081)
-Dalvik/2.1.0 (Linux; U; Android 14; Sony Xperia C701 Pro Build/TP1A.890764.056)
-Dalvik/2.1.0 (Linux; U; Android 7; Sony Xperia G109 Max Build/N8H8EV)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia NW234D Build/MCLJQ6)
-Dalvik/2.1.0 (Linux; U; Android 12; Redmi 278 Max Build/SQ3A.370851.090)
-Dalvik/2.1.0 (Linux; U; Android 10; Huawei 824 Max Build/QQ1C.370312.069)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia Asha 404 Max Build/TP1A.932694.095)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-A332F Build/PQ2A.900824.069)
-Dalvik/2.1.0 (Linux; U; Android 15; LG-616X Build/TD1A.848663.032)
-Dalvik/2.1.0 (Linux; U; Android 9; Sony Xperia 901 Build/PQ3A.639412.066)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo 91T Build/SQ1D.267250.096)
-Dalvik/2.1.0 (Linux; U; Android 15; RMX1353 Build/TQ1A.440858.060)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix 528T Build/RQ1A.764285.069)
-Dalvik/2.1.0 (Linux; U; Android 12; SM-S432F Build/SD2A.878552.085)
-Dalvik/2.1.0 (Linux; U; Android 11; Realme Z524 Ultra Build/RP1A.748936.059)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX3699 Build/RQ3A.316809.052)
-Dalvik/2.1.0 (Linux; U; Android 6; Itel 868 Build/MJMP7F)
-Dalvik/2.1.0 (Linux; U; Android 9; Infinix I593 Pro Build/PPR2.724254.085)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-273W Build/LGMOC9)
-Dalvik/2.1.0 (Linux; U; Android 4; Huawei I79T Build/JBP93M)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei Q619 Ultra Build/RQ1C.602256.060)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme 95 Build/QQ2A.442376.073)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi H97 Ultra Build/NEEPPF)
-Dalvik/2.1.0 (Linux; U; Android 12; Realme Y644 Max Build/SQ3A.470267.042)
-Dalvik/2.1.0 (Linux; U; Android 5; LM-R534T Build/LTZYTW)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix 796Y Build/RQ1A.171724.020)
-Dalvik/2.1.0 (Linux; U; Android 5; Sony Xperia U459C Build/LMRF4M)
-Dalvik/2.1.0 (Linux; U; Android 14; Mi 119M Build/TQ1A.880166.066)
-Dalvik/2.1.0 (Linux; U; Android 12; Mi 833 Max Build/SQ1A.876834.059)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia Asha A448T Build/NU2MK7)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX4123 Build/TD1A.925204.048)
-Dalvik/2.1.0 (Linux; U; Android 14; Nokia N624 Ultra Build/TP1A.637127.057)
-Dalvik/2.1.0 (Linux; U; Android 6; Infinix X599 Build/MIEAYL)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi V814 Max Build/L1FYKG)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia N152 Pro Build/PQ1A.757657.043)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi Note 462 Build/TD1A.382970.078)
-Dalvik/2.1.0 (Linux; U; Android 8; Itel 288 Pro Build/OPM8.984712.023)
-Dalvik/2.1.0 (Linux; U; Android 13; RMX3165 Build/TQ2A.776335.021)
-Dalvik/2.1.0 (Linux; U; Android 4; LM-F433 Max Build/J52LTX)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-701O Build/TP1A.856911.054)
-Dalvik/2.1.0 (Linux; U; Android 13; Realme L277T Build/TQ1A.593516.088)
-Dalvik/2.1.0 (Linux; U; Android 14; Huawei 755 Ultra Build/TP1A.164664.013)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX2602 Build/RQ1D.454519.087)
-Dalvik/2.1.0 (Linux; U; Android 9; Itel 195 Ultra Build/PD2A.407850.084)
-Dalvik/2.1.0 (Linux; U; Android 11; Vivo E164 Max Build/RQ1D.721322.040)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX2361 Build/OPR5.393276.012)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix K307T Build/RD1B.992014.067)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia NQ916 Ultra Build/QQ1C.393461.028)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia N415 Ultra Build/PQ3A.432202.025)
-Dalvik/2.1.0 (Linux; U; Android 14; Sony Xperia 321T Build/TQ1A.630041.078)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia Asha S800 Build/MGE6G8)
-Dalvik/2.1.0 (Linux; U; Android 10; Itel H288 Ultra Build/QQ1D.473213.032)
-Dalvik/2.1.0 (Linux; U; Android 8; Redmi Note 185 Ultra Build/OPM1.858770.029)
-Dalvik/2.1.0 (Linux; U; Android 10; Honor T913 Max Build/QD4A.575327.025)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia N226B Build/MBW0O6)
-Dalvik/2.1.0 (Linux; U; Android 5; SM-F604B Build/LKFBM6)
-Dalvik/2.1.0 (Linux; U; Android 6; Itel 592 Max Build/MIR3N3)
-Dalvik/2.1.0 (Linux; U; Android 5; LM-932T Build/L2P3GN)
-Dalvik/2.1.0 (Linux; U; Android 10; LM-K745T Build/QQ2A.685567.061)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia NX91 Max Build/MFBS3V)
-Dalvik/2.1.0 (Linux; U; Android 6; Itel 214 Pro Build/MX865E)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-J683B Build/OPD2.166270.035)
-Dalvik/2.1.0 (Linux; U; Android 5; Oppo F984 Build/L2CF7T)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi W271C Build/TQ1A.828194.088)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia N743T Build/MYSEPS)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-278O Build/LHURRI)
-Dalvik/2.1.0 (Linux; U; Android 6; Vivo 589 Ultra Build/MQR8QO)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei X321 Max Build/OPR5.759130.034)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi 772 Ultra Build/TQ2A.632366.032)
-Dalvik/2.1.0 (Linux; U; Android 4; Honor V201 Pro Build/JA4GCT)
-Dalvik/2.1.0 (Linux; U; Android 4; RMX2485 Build/JCXO67)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix 47 Max Build/RD2A.357133.083)
-Dalvik/2.1.0 (Linux; U; Android 15; Oppo O557X Build/TD1A.638049.015)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note M168 Build/RP1A.410689.028)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia F340 Max Build/RD2A.667255.055)
-Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia 736T Build/OPR5.844147.051)
-Dalvik/2.1.0 (Linux; U; Android 14; Oppo E226Z Build/TP1A.208104.092)
-Dalvik/2.1.0 (Linux; U; Android 5; Sony Xperia R835T Build/L1SY5L)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-324N Build/TQ1A.533153.043)
-Dalvik/2.1.0 (Linux; U; Android 5; Realme A30 Max Build/LK1CLZ)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia Asha F191 Build/NDVZH8)
-Dalvik/2.1.0 (Linux; U; Android 11; Mi J660F Build/RQ1D.935317.020)
-Dalvik/2.1.0 (Linux; U; Android 12; RMX1773 Build/SQ3A.196856.098)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX7511 Build/QQ1D.430192.033)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX8297 Build/OPM4.897575.077)
-Dalvik/2.1.0 (Linux; U; Android 13; Honor P71I Build/TQ1A.464555.017)
-Dalvik/2.1.0 (Linux; U; Android 14; Itel 852 Ultra Build/TQ1A.631028.099)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia Asha C259 Build/OPR4.158778.079)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 28T Build/MOBXWO)
-Dalvik/2.1.0 (Linux; U; Android 7; Itel 748J Build/NZ7PCV)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix 808T Build/TP1A.909759.058)
-Dalvik/2.1.0 (Linux; U; Android 7; Realme 50T Build/NQBMJ5)
-Dalvik/2.1.0 (Linux; U; Android 13; Huawei F159T Build/TQ2A.187906.075)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-438T Build/LYO7GP)
-Dalvik/2.1.0 (Linux; U; Android 10; Vivo 773 Max Build/QQ1D.327411.084)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei R783 Pro Build/RQ1C.443846.044)
-Dalvik/2.1.0 (Linux; U; Android 7; LG-399K Build/NMJIT5)
-Dalvik/2.1.0 (Linux; U; Android 5; Vivo W408 Build/LTM0LT)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme 154T Build/OPM6.218158.024)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Note O835 Max Build/LX0YSC)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX7142 Build/QQ1D.623293.042)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia NS740 Max Build/SQ3A.355295.014)
-Dalvik/2.1.0 (Linux; U; Android 7; Infinix 608L Build/NGW70L)
-Dalvik/2.1.0 (Linux; U; Android 7; Huawei N42V Build/NB1LOZ)
-Dalvik/2.1.0 (Linux; U; Android 5; Huawei B116I Build/L6BR3Y)
-Dalvik/2.1.0 (Linux; U; Android 5; Vivo 604J Build/LZXFVK)
-Dalvik/2.1.0 (Linux; U; Android 14; LM-578T Build/TP1A.575384.048)
-Dalvik/2.1.0 (Linux; U; Android 8; Itel B916D Build/OPM4.277450.030)
-Dalvik/2.1.0 (Linux; U; Android 14; Sony Xperia 808 Ultra Build/TP1A.424186.076)
-Dalvik/2.1.0 (Linux; U; Android 4; Oppo 401 Max Build/JL2L4Q)
-Dalvik/2.1.0 (Linux; U; Android 6; Oppo 506 Ultra Build/MQUDQS)
-Dalvik/2.1.0 (Linux; U; Android 12; LG-479T Build/SP2A.551625.085)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX9111 Build/RQ1C.550334.057)
-Dalvik/2.1.0 (Linux; U; Android 14; Nokia NQ801 Ultra Build/TP1A.375347.091)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi R441 Pro Build/M1TCYL)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia Asha S371 Max Build/RQ1C.320372.022)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia Asha Z986 Build/QQ1B.506032.048)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia Asha Y582 Ultra Build/OPD2.123682.024)
-Dalvik/2.1.0 (Linux; U; Android 10; LG-57M Build/QQ1B.132135.095)
-Dalvik/2.1.0 (Linux; U; Android 6; Vivo 301L Build/M1UHRR)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor 305G Build/NQ2GPS)
-Dalvik/2.1.0 (Linux; U; Android 13; RMX5280 Build/TQ1A.561387.071)
-Dalvik/2.1.0 (Linux; U; Android 14; LM-Y797 Build/TP1A.123473.059)
-Dalvik/2.1.0 (Linux; U; Android 12; Oppo 619T Build/SD2A.746288.045)
-Dalvik/2.1.0 (Linux; U; Android 12; LG-847X Build/SQ3A.411680.076)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-S618F Build/OPM7.772773.056)
-Dalvik/2.1.0 (Linux; U; Android 4; Mi Q538 Ultra Build/JTOZSG)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor 746O Build/NOWQYY)
-Dalvik/2.1.0 (Linux; U; Android 8; Infinix S395T Build/OPM2.518065.047)
-Dalvik/2.1.0 (Linux; U; Android 13; Oppo 281 Pro Build/TP1A.888000.094)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi 669T Build/RQ1C.144551.092)
-Dalvik/2.1.0 (Linux; U; Android 13; Mi 633S Build/TP1A.233648.064)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei 900 Ultra Build/MQL9CK)
-Dalvik/2.1.0 (Linux; U; Android 5; RMX8680 Build/LEA1BU)
-Dalvik/2.1.0 (Linux; U; Android 11; Honor 623T Build/RQ1C.346426.073)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note 597 Pro Build/TQ2A.826971.045)
-Dalvik/2.1.0 (Linux; U; Android 14; Huawei 756 Ultra Build/TQ1A.192540.023)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia Asha 886 Max Build/RD1B.683951.040)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia NE495X Build/OPM4.492218.090)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia Asha Q598 Max Build/JBKDQ0)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX1245 Build/TQ1A.286847.080)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia N147 Max Build/RQ1C.778825.065)
-Dalvik/2.1.0 (Linux; U; Android 6; Vivo 547F Build/MYM9KH)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei Y187 Build/RQ1A.233263.068)
-Dalvik/2.1.0 (Linux; U; Android 11; LG-295H Build/RQ1D.278084.060)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme K718 Ultra Build/QQ3A.967916.048)
-Dalvik/2.1.0 (Linux; U; Android 11; Vivo N423C Build/RD1B.332190.021)
-Dalvik/2.1.0 (Linux; U; Android 13; SM-F800B Build/TQ2A.820300.015)
-Dalvik/2.1.0 (Linux; U; Android 11; Realme D828 Ultra Build/RQ1D.455451.095)
-Dalvik/2.1.0 (Linux; U; Android 15; Itel 147 Pro Build/TQ2A.652410.050)
-Dalvik/2.1.0 (Linux; U; Android 14; Honor E146 Build/TP1A.220390.091)
-Dalvik/2.1.0 (Linux; U; Android 11; Oppo 364 Ultra Build/RQ1D.910901.037)
-Dalvik/2.1.0 (Linux; U; Android 5; Realme 109 Ultra Build/LEX1RP)
-Dalvik/2.1.0 (Linux; U; Android 15; LG-313O Build/TP1A.215372.093)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX1519 Build/TP1A.178884.034)
-Dalvik/2.1.0 (Linux; U; Android 10; Vivo 886 Pro Build/QQ1B.617496.093)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor 339 Max Build/N7V7VT)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor I444 Pro Build/N66G8J)
-Dalvik/2.1.0 (Linux; U; Android 8; Redmi P760 Pro Build/OPM2.270640.056)
-Dalvik/2.1.0 (Linux; U; Android 4; Vivo F209 Ultra Build/JRQO6Y)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi 804 Max Build/LORERC)
-Dalvik/2.1.0 (Linux; U; Android 13; Mi J646T Build/TP1A.403494.093)
-Dalvik/2.1.0 (Linux; U; Android 11; LG-27V Build/RD1A.843651.038)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note K221 Ultra Build/RD1A.997250.081)
-Dalvik/2.1.0 (Linux; U; Android 13; Sony Xperia 365 Max Build/TQ2A.303865.056)
-Dalvik/2.1.0 (Linux; U; Android 15; LG-530I Build/TQ1A.659423.041)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-M177D Build/OPR6.334978.056)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix H623I Build/TQ1A.523828.052)
-Dalvik/2.1.0 (Linux; U; Android 12; RMX5166 Build/SP2A.477303.046)
-Dalvik/2.1.0 (Linux; U; Android 10; Huawei 150 Build/QQ2A.588309.034)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia N892 Ultra Build/RD1B.150748.021)
-Dalvik/2.1.0 (Linux; U; Android 13; RMX8388 Build/TQ2A.684695.083)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 813 Pro Build/MJ3MSK)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia NG662B Build/OPD3.883941.076)
-Dalvik/2.1.0 (Linux; U; Android 12; LG-198U Build/SD2A.915247.060)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-S419B Build/PPR2.830395.061)
-Dalvik/2.1.0 (Linux; U; Android 9; Honor 636 Ultra Build/PPR1.909170.017)
-Dalvik/2.1.0 (Linux; U; Android 6; SM-A447ES Build/MLR1FO)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia N290 Build/PQ3B.830956.075)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei N903 Ultra Build/RQ1A.312720.071)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia A46N Build/RQ1A.965934.036)
-Dalvik/2.1.0 (Linux; U; Android 6; Realme 954 Ultra Build/MTR7MW)
-Dalvik/2.1.0 (Linux; U; Android 12; LM-F102 Max Build/SQ3A.733041.047)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo J253 Max Build/SQ3A.741248.050)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-567G Build/LE6KIB)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei L526 Ultra Build/OPR3.715775.066)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo N762 Ultra Build/SQ1D.851984.044)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia Asha 601 Max Build/N2PY0T)
-Dalvik/2.1.0 (Linux; U; Android 11; Vivo J221 Pro Build/RQ1C.691889.092)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX5739 Build/OPR5.955019.011)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia Asha O268 Pro Build/LX3HFI)
-Dalvik/2.1.0 (Linux; U; Android 8; Oppo S325 Ultra Build/OPR4.576804.039)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-S584M Build/OPM7.349436.088)
-Dalvik/2.1.0 (Linux; U; Android 9; RMX2097 Build/PQ2A.627826.041)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-F847ES Build/OPR1.834492.096)
-Dalvik/2.1.0 (Linux; U; Android 11; Oppo Q191K Build/RD1B.994594.033)
-Dalvik/2.1.0 (Linux; U; Android 6; Infinix 867V Build/M5CU8O)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor O37 Ultra Build/OPR3.579207.074)
-Dalvik/2.1.0 (Linux; U; Android 14; Nokia NS299L Build/TP1A.335692.087)
-Dalvik/2.1.0 (Linux; U; Android 12; Huawei 489 Ultra Build/SD2A.508879.080)
-Dalvik/2.1.0 (Linux; U; Android 10; SM-S657M Build/QQ2A.201153.041)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia NV582C Build/OPR4.429578.031)
-Dalvik/2.1.0 (Linux; U; Android 12; RMX9581 Build/SQ3A.823180.056)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX5309 Build/OPD1.342796.022)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia Asha 772 Ultra Build/LQNU4X)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia O252 Max Build/RQ1A.788356.017)
-Dalvik/2.1.0 (Linux; U; Android 11; Honor Q668 Max Build/RD2A.349190.024)
-Dalvik/2.1.0 (Linux; U; Android 14; Vivo K312C Build/TP1A.396034.063)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Note F977 Max Build/LRIGIR)
-Dalvik/2.1.0 (Linux; U; Android 14; Sony Xperia V469M Build/TQ1A.816356.078)
-Dalvik/2.1.0 (Linux; U; Android 4; Realme J226H Build/JPJ4BS)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei 726 Ultra Build/MX88ZW)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-293F Build/L8T74Y)
-Dalvik/2.1.0 (Linux; U; Android 9; Vivo D175Z Build/PQ1A.682198.089)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme X291 Max Build/OPR1.932436.078)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 523 Ultra Build/M8WJ6E)
-Dalvik/2.1.0 (Linux; U; Android 9; Oppo C537H Build/PQ2A.544162.011)
-Dalvik/2.1.0 (Linux; U; Android 11; LM-M344Q Build/RQ3A.867476.049)
-Dalvik/2.1.0 (Linux; U; Android 10; SM-N525ES Build/QQ1C.813606.011)
-Dalvik/2.1.0 (Linux; U; Android 5; Realme 148 Pro Build/LH4WOZ)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-S379ES Build/PQ3B.974930.098)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi L702 Ultra Build/TD1A.708799.076)
-Dalvik/2.1.0 (Linux; U; Android 5; Itel 206 Max Build/LGTEX6)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia NN627T Build/RQ1A.545879.056)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-M888B Build/OPM7.473158.018)
-Dalvik/2.1.0 (Linux; U; Android 5; Itel 838 Ultra Build/L7T5ZK)
-Dalvik/2.1.0 (Linux; U; Android 13; Oppo 951 Build/TP1A.924440.012)
-Dalvik/2.1.0 (Linux; U; Android 4; SM-N957F Build/JNESB2)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme 147 Build/OPR4.199307.085)
-Dalvik/2.1.0 (Linux; U; Android 4; Sony Xperia 633 Build/J83BXX)
-Dalvik/2.1.0 (Linux; U; Android 9; Huawei 85T Build/PD2A.778479.023)
-Dalvik/2.1.0 (Linux; U; Android 13; SM-S615ES Build/TD1A.890902.080)
-Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 377F Build/QQ1A.221969.047)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-222M Build/TP1A.707101.048)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia NF480 Ultra Build/NMPJQ2)
-Dalvik/2.1.0 (Linux; U; Android 8; Redmi X877 Max Build/OPM2.606329.032)
-Dalvik/2.1.0 (Linux; U; Android 7; Huawei Y13 Max Build/NV8ICH)
-Dalvik/2.1.0 (Linux; U; Android 15; Nokia Asha P134 Ultra Build/TD1A.872866.015)
-Dalvik/2.1.0 (Linux; U; Android 4; Honor H274 Ultra Build/JGGYO6)
-Dalvik/2.1.0 (Linux; U; Android 9; LG-42U Build/PPR2.928345.096)
-Dalvik/2.1.0 (Linux; U; Android 4; Honor Q199 Ultra Build/JTDJ9N)
-Dalvik/2.1.0 (Linux; U; Android 7; Realme E180 Max Build/NRXD4F)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia Asha 980G Build/SQ1A.721649.022)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia NM569 Ultra Build/LVFPRL)
-Dalvik/2.1.0 (Linux; U; Android 13; Realme 946T Build/TQ2A.904562.047)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX2842 Build/QQ1D.616594.056)
-Dalvik/2.1.0 (Linux; U; Android 11; Realme 77 Ultra Build/RQ1D.360378.044)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 328 Ultra Build/MNO2L3)
-Dalvik/2.1.0 (Linux; U; Android 8; Itel L526 Max Build/OPM2.826310.098)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor 181 Ultra Build/OPM6.230897.099)
-Dalvik/2.1.0 (Linux; U; Android 6; Nokia NO489R Build/MDWH3K)
-Dalvik/2.1.0 (Linux; U; Android 15; Vivo P392 Pro Build/TP1A.983437.081)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix I134U Build/RD2A.285520.016)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor 815 Ultra Build/NCUPTQ)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX7743 Build/RQ1A.824055.019)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note 118J Build/TQ2A.605316.056)
-Dalvik/2.1.0 (Linux; U; Android 14; Oppo 302 Build/TQ1A.210804.094)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia Asha W186 Ultra Build/TP1A.336763.078)
-Dalvik/2.1.0 (Linux; U; Android 15; Vivo 826 Ultra Build/TP1A.927172.058)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi 939 Max Build/NZFDSK)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX4606 Build/QQ1C.805477.045)
-Dalvik/2.1.0 (Linux; U; Android 8; Oppo U340 Pro Build/OPR3.139994.080)
-Dalvik/2.1.0 (Linux; U; Android 6; Realme 290 Build/MZKKBV)
-Dalvik/2.1.0 (Linux; U; Android 6; LM-K848T Build/MPBNLN)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 861N Build/PPR2.786457.015)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel F259Y Build/RQ3A.450352.054)
-Dalvik/2.1.0 (Linux; U; Android 9; Itel T200L Build/PQ2A.270440.046)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia N200 Max Build/NOSXUU)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia F358B Build/RQ3A.874384.038)
-Dalvik/2.1.0 (Linux; U; Android 7; Sony Xperia 866 Ultra Build/NCJZNU)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo 844X Build/SQ1A.370498.087)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-J119ES Build/PQ3A.742786.054)
-Dalvik/2.1.0 (Linux; U; Android 14; Honor O454 Build/TP1A.820046.047)
-Dalvik/2.1.0 (Linux; U; Android 11; Honor 839 Max Build/RD1B.642889.086)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi 660 Ultra Build/RD1B.321967.064)
-Dalvik/2.1.0 (Linux; U; Android 7; Vivo S663 Ultra Build/NV2L7M)
-Dalvik/2.1.0 (Linux; U; Android 10; Vivo 331 Ultra Build/QQ1B.403495.039)
-Dalvik/2.1.0 (Linux; U; Android 6; Sony Xperia 397T Build/M9AVWQ)
-Dalvik/2.1.0 (Linux; U; Android 11; LG-403E Build/RQ3A.468124.069)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme H703M Build/OPM2.845944.082)
-Dalvik/2.1.0 (Linux; U; Android 5; Oppo 700X Build/L616VE)
-Dalvik/2.1.0 (Linux; U; Android 9; Mi 303 Pro Build/PQ1A.791492.065)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi 556 Ultra Build/LU0GTZ)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia Asha W413H Build/JW6Y67)
-Dalvik/2.1.0 (Linux; U; Android 14; Oppo R737 Max Build/TQ1A.169208.045)
-Dalvik/2.1.0 (Linux; U; Android 5; Sony Xperia G321W Build/LWYRT8)
-Dalvik/2.1.0 (Linux; U; Android 12; Sony Xperia E504Y Build/SQ3A.237614.049)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia Asha 430 Max Build/SQ1D.206869.092)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia Asha Z127 Build/TQ2A.623095.079)
-Dalvik/2.1.0 (Linux; U; Android 6; Honor R727V Build/MFX1ZQ)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel B628X Build/RQ1D.330789.066)
-Dalvik/2.1.0 (Linux; U; Android 10; Infinix V859T Build/QQ1D.286724.030)
-Dalvik/2.1.0 (Linux; U; Android 4; Huawei Q318T Build/JXXFPM)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia Asha 657T Build/JQJD0H)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi E129T Build/MME32G)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-994E Build/TP1A.807328.059)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor H96T Build/OPD2.811492.043)
-Dalvik/2.1.0 (Linux; U; Android 12; LG-504I Build/SQ1A.711588.028)
-Dalvik/2.1.0 (Linux; U; Android 5; Honor 512 Max Build/L2ZXPD)
-Dalvik/2.1.0 (Linux; U; Android 7; RMX8047 Build/NUEYHU)
-Dalvik/2.1.0 (Linux; U; Android 12; Infinix 652 Max Build/SD2A.297425.041)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 15 Max Build/RP1A.807732.041)
-Dalvik/2.1.0 (Linux; U; Android 5; Huawei 446 Pro Build/LB74NF)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel Y830 Build/RD1B.828676.061)
-Dalvik/2.1.0 (Linux; U; Android 15; Sony Xperia N520V Build/TQ1A.481149.019)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX4943 Build/OPR2.181404.016)
-Dalvik/2.1.0 (Linux; U; Android 5; SM-F522F Build/L2TES0)
-Dalvik/2.1.0 (Linux; U; Android 13; Huawei 595 Build/TQ2A.958472.067)
-Dalvik/2.1.0 (Linux; U; Android 12; Honor G395 Max Build/SQ3A.218544.096)
-Dalvik/2.1.0 (Linux; U; Android 8; LM-K284 Max Build/OPR2.276016.040)
-Dalvik/2.1.0 (Linux; U; Android 9; Vivo 446T Build/PQ2A.879547.068)
-Dalvik/2.1.0 (Linux; U; Android 15; Vivo U351 Ultra Build/TQ1A.165746.084)
-Dalvik/2.1.0 (Linux; U; Android 7; LM-801 Max Build/N0MKG9)
-Dalvik/2.1.0 (Linux; U; Android 8; Redmi P176 Ultra Build/OPR4.297670.081)
-Dalvik/2.1.0 (Linux; U; Android 12; Mi W831 Pro Build/SD2A.382458.067)
-Dalvik/2.1.0 (Linux; U; Android 7; Huawei 458C Build/NRKW0T)
-Dalvik/2.1.0 (Linux; U; Android 4; Itel 454F Build/JEVUSO)
-Dalvik/2.1.0 (Linux; U; Android 11; LG-853F Build/RD1A.488347.051)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia NU355 Ultra Build/NQ7T8W)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei S913S Build/OPR1.918398.095)
-Dalvik/2.1.0 (Linux; U; Android 9; Vivo C242N Build/PPR2.905105.023)
-Dalvik/2.1.0 (Linux; U; Android 12; Redmi D237 Ultra Build/SQ3A.504705.069)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix 57 Build/TQ1A.468179.069)
-Dalvik/2.1.0 (Linux; U; Android 9; Huawei 167T Build/PPR2.516827.085)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi T77 Pro Build/NR5BVZ)
-Dalvik/2.1.0 (Linux; U; Android 10; Redmi T97 Build/QQ2A.294460.075)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi Q84T Build/TQ1A.869363.088)
-Dalvik/2.1.0 (Linux; U; Android 12; Sony Xperia H843 Ultra Build/SP2A.606766.014)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note X691T Build/MMAIVT)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX7825 Build/RP1A.413315.091)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-A864F Build/OPD3.197921.063)
-Dalvik/2.1.0 (Linux; U; Android 14; Itel 26T Build/TP1A.237254.056)
-Dalvik/2.1.0 (Linux; U; Android 8; Realme 23 Max Build/OPR6.832954.096)
-Dalvik/2.1.0 (Linux; U; Android 9; RMX7668 Build/PPR1.196513.017)
-Dalvik/2.1.0 (Linux; U; Android 9; Huawei Q345G Build/PQ3A.120083.079)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix G154T Build/TQ1A.866309.072)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia N934Q Build/TP1A.914723.050)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel 538 Ultra Build/RP1A.353873.056)
-Dalvik/2.1.0 (Linux; U; Android 10; SM-N246B Build/QQ1A.486911.066)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note Y600A Build/TQ2A.863467.066)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 197 Max Build/PQ2A.591325.038)
-Dalvik/2.1.0 (Linux; U; Android 10; SM-M421F Build/QQ3A.153759.026)
-Dalvik/2.1.0 (Linux; U; Android 12; Mi O420 Build/SD2A.326210.072)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia N845 Pro Build/RP1A.202946.083)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme G974 Ultra Build/QQ1C.557022.065)
-Dalvik/2.1.0 (Linux; U; Android 10; LG-855W Build/QQ1D.352215.078)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha F615 Max Build/PQ3A.599811.077)
-Dalvik/2.1.0 (Linux; U; Android 12; Itel 787 Build/SQ3A.579785.025)
-Dalvik/2.1.0 (Linux; U; Android 15; Infinix 537 Max Build/TQ2A.192150.097)
-Dalvik/2.1.0 (Linux; U; Android 13; Sony Xperia 630 Max Build/TP1A.368338.070)
-Dalvik/2.1.0 (Linux; U; Android 4; Mi H762 Ultra Build/JQR8VP)
-Dalvik/2.1.0 (Linux; U; Android 14; Itel 576 Ultra Build/TD1A.706360.066)
-Dalvik/2.1.0 (Linux; U; Android 13; SM-J926B Build/TQ2A.329877.023)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei O935W Build/MBHF5W)
-Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia A128 Max Build/OPR3.261214.059)
-Dalvik/2.1.0 (Linux; U; Android 11; Realme A486O Build/RQ3A.722711.073)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia Asha 819 Max Build/LEMFG3)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia 408 Max Build/RQ1D.458451.043)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi Note G181 Ultra Build/NKKY4M)
-Dalvik/2.1.0 (Linux; U; Android 8; Nokia N186 Max Build/OPM1.143783.087)
-Dalvik/2.1.0 (Linux; U; Android 10; LM-L204 Ultra Build/QD4A.852174.019)
-Dalvik/2.1.0 (Linux; U; Android 12; RMX3488 Build/SQ1D.829194.044)
-Dalvik/2.1.0 (Linux; U; Android 8; Oppo F836N Build/OPR3.244940.043)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor N723 Build/NV4HF4)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia N688 Ultra Build/RD1A.960349.012)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix 119 Ultra Build/RQ1A.650043.011)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia N707 Max Build/PQ2A.901112.092)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia N41 Build/RP1A.161732.063)
-Dalvik/2.1.0 (Linux; U; Android 14; Realme D557 Ultra Build/TP1A.464455.016)
-Dalvik/2.1.0 (Linux; U; Android 13; RMX9302 Build/TQ1A.294609.079)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha Q756 Pro Build/PD2A.976365.087)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX7799 Build/OPR5.172472.067)
-Dalvik/2.1.0 (Linux; U; Android 5; Honor A823T Build/LL0W38)
-Dalvik/2.1.0 (Linux; U; Android 4; SM-M993B Build/JY3P3J)
-Dalvik/2.1.0 (Linux; U; Android 9; Vivo R811 Max Build/PPR2.936037.040)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 472 Build/PQ2A.786348.022)
-Dalvik/2.1.0 (Linux; U; Android 15; Nokia Asha Y969 Ultra Build/TP1A.201421.044)
-Dalvik/2.1.0 (Linux; U; Android 10; LM-J827V Build/QQ1B.570107.051)
-Dalvik/2.1.0 (Linux; U; Android 6; Honor 769 Max Build/MG35BS)
-Dalvik/2.1.0 (Linux; U; Android 10; Redmi 764T Build/QQ2A.949352.094)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-N861F Build/PQ3A.190332.086)
-Dalvik/2.1.0 (Linux; U; Android 7; RMX5578 Build/NS1ARS)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia Asha Q693N Build/TQ1A.615246.012)
-Dalvik/2.1.0 (Linux; U; Android 4; Infinix B398J Build/J47XA7)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX4730 Build/QQ2A.483183.074)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix Y951 Max Build/TQ1A.996852.029)
-Dalvik/2.1.0 (Linux; U; Android 10; Huawei 679 Build/QQ3A.414712.065)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha 967 Max Build/PPR2.745243.071)
-Dalvik/2.1.0 (Linux; U; Android 5; LG-942I Build/LERDK0)
-Dalvik/2.1.0 (Linux; U; Android 12; Huawei 615 Build/SD2A.284379.029)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia Asha 414 Max Build/RD2A.989249.034)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX8371 Build/TQ2A.266846.085)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia NP69 Max Build/SD2A.155645.068)
-Dalvik/2.1.0 (Linux; U; Android 10; Sony Xperia N96 Max Build/QQ2A.990958.065)
-Dalvik/2.1.0 (Linux; U; Android 14; Huawei 760T Build/TD1A.688886.020)
-Dalvik/2.1.0 (Linux; U; Android 12; Realme 351 Max Build/SQ1A.932521.011)
-Dalvik/2.1.0 (Linux; U; Android 12; Realme W735 Ultra Build/SQ3A.210429.032)
-Dalvik/2.1.0 (Linux; U; Android 10; Itel Y719 Build/QQ1D.432411.048)
-Dalvik/2.1.0 (Linux; U; Android 5; Huawei 671 Build/L8VB3O)
-Dalvik/2.1.0 (Linux; U; Android 9; Realme A351 Ultra Build/PPR2.421889.095)
-Dalvik/2.1.0 (Linux; U; Android 12; SM-J659B Build/SQ3A.711720.049)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia N813 Ultra Build/JTGDK5)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-M170F Build/PQ3B.282838.062)
-Dalvik/2.1.0 (Linux; U; Android 12; Huawei C520T Build/SP2A.602617.029)
-Dalvik/2.1.0 (Linux; U; Android 5; SM-N700B Build/L5DUYN)
-Dalvik/2.1.0 (Linux; U; Android 6; Realme A13 Ultra Build/MV1NWV)
-Dalvik/2.1.0 (Linux; U; Android 5; LM-U953M Build/L8JQGM)
-Dalvik/2.1.0 (Linux; U; Android 7; Vivo 13 Ultra Build/N8J6D3)
-Dalvik/2.1.0 (Linux; U; Android 12; Vivo O982Q Build/SQ3A.193430.058)
-Dalvik/2.1.0 (Linux; U; Android 11; Huawei U920 Pro Build/RD2A.304881.092)
-Dalvik/2.1.0 (Linux; U; Android 12; Sony Xperia 611T Build/SQ3A.229785.083)
-Dalvik/2.1.0 (Linux; U; Android 5; Itel P18 Pro Build/LZ5KJI)
-Dalvik/2.1.0 (Linux; U; Android 15; Nokia N835G Build/TQ1A.249142.055)
-Dalvik/2.1.0 (Linux; U; Android 11; Sony Xperia 443M Build/RD1B.967443.035)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Q305 Ultra Build/LOUR2I)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme O32 Max Build/QQ3A.326624.066)
-Dalvik/2.1.0 (Linux; U; Android 14; Nokia N663 Ultra Build/TQ1A.897991.099)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel 96 Ultra Build/RQ3A.624698.027)
-Dalvik/2.1.0 (Linux; U; Android 6; Vivo 431E Build/MCSVFY)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi T654 Max Build/TD1A.257854.024)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia Asha 937 Ultra Build/LWKISR)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note Q912 Build/MRL397)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia NF986 Pro Build/RD1B.840103.035)
-Dalvik/2.1.0 (Linux; U; Android 6; RMX6762 Build/MCVBJF)
-Dalvik/2.1.0 (Linux; U; Android 11; Vivo 477 Pro Build/RD1A.728763.091)
-Dalvik/2.1.0 (Linux; U; Android 9; Vivo 206T Build/PPR2.347484.017)
-Dalvik/2.1.0 (Linux; U; Android 9; LM-X659 Max Build/PPR1.762326.065)
-Dalvik/2.1.0 (Linux; U; Android 13; Honor W585L Build/TD1A.722395.038)
-Dalvik/2.1.0 (Linux; U; Android 6; Sony Xperia 528T Build/MKJWKU)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi 384T Build/PPR2.562309.035)
-Dalvik/2.1.0 (Linux; U; Android 9; LM-X426Z Build/PQ1A.395297.093)
-Dalvik/2.1.0 (Linux; U; Android 13; Realme R794 Build/TQ2A.343136.071)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia Asha 245H Build/SD2A.195996.080)
-Dalvik/2.1.0 (Linux; U; Android 7; Honor C240B Build/NXQ28H)
-Dalvik/2.1.0 (Linux; U; Android 4; Infinix U90 Ultra Build/JPOBG9)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi M140T Build/LENQ8W)
-Dalvik/2.1.0 (Linux; U; Android 12; Itel 754 Ultra Build/SP2A.164447.075)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi Note 198 Ultra Build/TD1A.742482.046)
-Dalvik/2.1.0 (Linux; U; Android 15; RMX1511 Build/TP1A.221481.023)
-Dalvik/2.1.0 (Linux; U; Android 6; Vivo P209 Build/MNWPNL)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi Note B29 Build/N5IOQF)
-Dalvik/2.1.0 (Linux; U; Android 10; Infinix L55 Pro Build/QQ2A.572077.035)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix T450 Pro Build/RQ3A.195703.093)
-Dalvik/2.1.0 (Linux; U; Android 12; LM-P207 Max Build/SD2A.406872.031)
-Dalvik/2.1.0 (Linux; U; Android 7; Oppo P562T Build/NO6RJY)
-Dalvik/2.1.0 (Linux; U; Android 9; RMX5803 Build/PQ2A.338029.061)
-Dalvik/2.1.0 (Linux; U; Android 7; Nokia Asha F279 Build/NGMJYL)
-Dalvik/2.1.0 (Linux; U; Android 5; Nokia Asha 443 Ultra Build/LRZFNV)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia N532 Pro Build/RQ1D.521668.075)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi L321 Build/RQ1A.449479.079)
-Dalvik/2.1.0 (Linux; U; Android 15; Honor 489 Max Build/TQ1A.886060.088)
-Dalvik/2.1.0 (Linux; U; Android 5; Itel A876 Pro Build/LJGBHY)
-Dalvik/2.1.0 (Linux; U; Android 9; Oppo W193V Build/PQ3A.238134.078)
-Dalvik/2.1.0 (Linux; U; Android 13; SM-M634M Build/TQ2A.542728.014)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei 971T Build/OPR2.909886.071)
-Dalvik/2.1.0 (Linux; U; Android 11; Infinix 130 Build/RD1B.805061.044)
-Dalvik/2.1.0 (Linux; U; Android 14; Sony Xperia T172 Pro Build/TP1A.298786.085)
-Dalvik/2.1.0 (Linux; U; Android 12; Huawei 473 Ultra Build/SQ1A.993418.039)
-Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia 532T Build/OPR4.971112.022)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX6211 Build/QQ1B.514281.033)
-Dalvik/2.1.0 (Linux; U; Android 4; Sony Xperia L716 Ultra Build/JNIRJW)
-Dalvik/2.1.0 (Linux; U; Android 5; Huawei 443 Max Build/L6ESZQ)
-Dalvik/2.1.0 (Linux; U; Android 12; Redmi 282 Max Build/SQ1A.670207.028)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix X485T Build/TQ1A.965411.085)
-Dalvik/2.1.0 (Linux; U; Android 6; SM-J424M Build/MHUSXB)
-Dalvik/2.1.0 (Linux; U; Android 15; Honor 26 Ultra Build/TP1A.173371.041)
-Dalvik/2.1.0 (Linux; U; Android 14; Infinix J30O Build/TD1A.257740.018)
-Dalvik/2.1.0 (Linux; U; Android 6; Honor V964 Pro Build/MN1CLZ)
-Dalvik/2.1.0 (Linux; U; Android 7; Vivo P975U Build/N8P4J8)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi 82T Build/TP1A.730799.030)
-Dalvik/2.1.0 (Linux; U; Android 12; Itel H461C Build/SQ1A.906791.052)
-Dalvik/2.1.0 (Linux; U; Android 13; Sony Xperia L846T Build/TP1A.261223.058)
-Dalvik/2.1.0 (Linux; U; Android 9; RMX8842 Build/PPR2.952112.077)
-Dalvik/2.1.0 (Linux; U; Android 9; Sony Xperia F289 Ultra Build/PPR1.867570.050)
-Dalvik/2.1.0 (Linux; U; Android 10; SM-F342ES Build/QQ1B.353078.016)
-Dalvik/2.1.0 (Linux; U; Android 13; SM-N728F Build/TQ1A.648487.070)
-Dalvik/2.1.0 (Linux; U; Android 9; Nokia Asha O607T Build/PD2A.710857.057)
-Dalvik/2.1.0 (Linux; U; Android 5; Vivo G358 Ultra Build/L7II1S)
-Dalvik/2.1.0 (Linux; U; Android 14; Mi 81N Build/TQ1A.671365.076)
-Dalvik/2.1.0 (Linux; U; Android 8; LM-815J Build/OPR6.508167.061)
-Dalvik/2.1.0 (Linux; U; Android 14; Nokia Asha N114T Build/TQ2A.614315.030)
-Dalvik/2.1.0 (Linux; U; Android 14; LG-82S Build/TP1A.460466.091)
-Dalvik/2.1.0 (Linux; U; Android 10; Realme K959C Build/QQ1C.961144.011)
-Dalvik/2.1.0 (Linux; U; Android 5; Infinix 47T Build/LD4QR0)
-Dalvik/2.1.0 (Linux; U; Android 4; Realme 756 Max Build/J44MLO)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia Asha D251 Ultra Build/SD2A.970754.046)
-Dalvik/2.1.0 (Linux; U; Android 14; Infinix 740 Ultra Build/TQ2A.563188.091)
-Dalvik/2.1.0 (Linux; U; Android 11; LM-974T Build/RP1A.715230.054)
-Dalvik/2.1.0 (Linux; U; Android 5; Realme D574Y Build/L5YTJU)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi Note 880F Build/TP1A.168009.050)
-Dalvik/2.1.0 (Linux; U; Android 9; Mi C941 Pro Build/PQ2A.495954.071)
-Dalvik/2.1.0 (Linux; U; Android 6; Redmi Note 532 Ultra Build/MK6BNE)
-Dalvik/2.1.0 (Linux; U; Android 11; Nokia NH228 Max Build/RP1A.416964.015)
-Dalvik/2.1.0 (Linux; U; Android 10; Infinix 931T Build/QQ2A.173674.020)
-Dalvik/2.1.0 (Linux; U; Android 5; Sony Xperia F381P Build/LTO073)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel 579Q Build/RQ1A.715131.067)
-Dalvik/2.1.0 (Linux; U; Android 14; Vivo V846 Build/TQ1A.805704.031)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 314 Pro Build/RD1B.967292.013)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia N601 Max Build/QQ1D.834611.054)
-Dalvik/2.1.0 (Linux; U; Android 10; Mi M63N Build/QD4A.724936.072)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX8650 Build/OPM2.487284.019)
-Dalvik/2.1.0 (Linux; U; Android 6; Realme 462P Build/MNLT56)
-Dalvik/2.1.0 (Linux; U; Android 13; Vivo 747T Build/TQ1A.380829.012)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-S717M Build/PPR2.575226.058)
-Dalvik/2.1.0 (Linux; U; Android 9; Realme Z963 Max Build/PPR2.734676.030)
-Dalvik/2.1.0 (Linux; U; Android 12; Sony Xperia 592T Build/SQ3A.745584.036)
-Dalvik/2.1.0 (Linux; U; Android 6; Huawei 540T Build/MWMT5C)
-Dalvik/2.1.0 (Linux; U; Android 12; Mi L713T Build/SQ1A.639245.023)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-M581B Build/PQ1A.282661.072)
-Dalvik/2.1.0 (Linux; U; Android 9; Realme R950T Build/PQ2A.870655.090)
-Dalvik/2.1.0 (Linux; U; Android 13; Huawei J507 Pro Build/TP1A.270046.066)
-Dalvik/2.1.0 (Linux; U; Android 8; Redmi Note 665U Build/OPD2.861655.064)
-Dalvik/2.1.0 (Linux; U; Android 7; Infinix 883C Build/NOSWQK)
-Dalvik/2.1.0 (Linux; U; Android 4; Nokia N623 Max Build/J25R25)
-Dalvik/2.1.0 (Linux; U; Android 9; Honor L223T Build/PQ3A.156924.054)
-Dalvik/2.1.0 (Linux; U; Android 12; Itel 405T Build/SQ3A.720025.014)
-Dalvik/2.1.0 (Linux; U; Android 9; Redmi Note 708 Max Build/PPR1.283830.069)
-Dalvik/2.1.0 (Linux; U; Android 9; SM-F796F Build/PD2A.818998.048)
-Dalvik/2.1.0 (Linux; U; Android 5; Honor V53 Max Build/LC4BLK)
-Dalvik/2.1.0 (Linux; U; Android 8; Itel 519 Max Build/OPM5.420706.074)
-Dalvik/2.1.0 (Linux; U; Android 8; LM-80T Build/OPR5.423908.043)
-Dalvik/2.1.0 (Linux; U; Android 9; Oppo 213 Max Build/PQ3A.548383.025)
-Dalvik/2.1.0 (Linux; U; Android 15; Huawei L822R Build/TD1A.268713.057)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note O290Y Build/TD1A.683946.071)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia N483T Build/QQ1B.687648.086)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi Note K234 Max Build/TD1A.263674.084)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi Note 589 Max Build/NIZU74)
-Dalvik/2.1.0 (Linux; U; Android 13; RMX2745 Build/TQ1A.602953.011)
-Dalvik/2.1.0 (Linux; U; Android 13; Infinix 462 Pro Build/TD1A.336125.029)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor 539O Build/OPD1.487712.039)
-Dalvik/2.1.0 (Linux; U; Android 13; Nokia NY350T Build/TQ1A.589737.057)
-Dalvik/2.1.0 (Linux; U; Android 14; Oppo N673 Max Build/TD1A.909721.017)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia NO529N Build/QQ1B.848423.010)
-Dalvik/2.1.0 (Linux; U; Android 8; Oppo 969 Ultra Build/OPM1.770234.013)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi Note 902 Max Build/RQ1A.361685.016)
-Dalvik/2.1.0 (Linux; U; Android 14; Redmi H135 Max Build/TP1A.119746.097)
-Dalvik/2.1.0 (Linux; U; Android 5; RMX8758 Build/LQEOMN)
-Dalvik/2.1.0 (Linux; U; Android 11; Redmi 446 Ultra Build/RQ1D.433474.043)
-Dalvik/2.1.0 (Linux; U; Android 12; Oppo D719 Ultra Build/SP2A.227351.013)
-Dalvik/2.1.0 (Linux; U; Android 14; Realme N994 Max Build/TP1A.173265.037)
-Dalvik/2.1.0 (Linux; U; Android 8; RMX5891 Build/OPR5.145513.063)
-Dalvik/2.1.0 (Linux; U; Android 13; Mi 645 Max Build/TD1A.910041.027)
-Dalvik/2.1.0 (Linux; U; Android 11; RMX9391 Build/RQ1D.751265.025)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia Asha B325X Build/QQ2A.447870.085)
-Dalvik/2.1.0 (Linux; U; Android 8; Huawei S406 Max Build/OPR2.894490.087)
-Dalvik/2.1.0 (Linux; U; Android 8; Honor 663 Ultra Build/OPR1.263467.014)
-Dalvik/2.1.0 (Linux; U; Android 13; Redmi K811T Build/TQ1A.489680.074)
-Dalvik/2.1.0 (Linux; U; Android 10; Honor 782 Ultra Build/QQ3A.780865.011)
-Dalvik/2.1.0 (Linux; U; Android 11; Vivo C418 Max Build/RQ1C.558124.033)
-Dalvik/2.1.0 (Linux; U; Android 6; SM-N591F Build/MBSKX5)
-Dalvik/2.1.0 (Linux; U; Android 14; RMX2135 Build/TD1A.761635.048)
-Dalvik/2.1.0 (Linux; U; Android 5; Redmi Note 785 Build/LI42ST)
-Dalvik/2.1.0 (Linux; U; Android 10; Nokia N374M Build/QD4A.452452.032)
-Dalvik/2.1.0 (Linux; U; Android 15; Redmi D459 Ultra Build/TQ1A.569911.075)
-Dalvik/2.1.0 (Linux; U; Android 13; Itel M137 Pro Build/TP1A.219081.024)
-Dalvik/2.1.0 (Linux; U; Android 14; Honor T161T Build/TQ1A.414593.089)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel V543 Ultra Build/RP1A.582688.076)
-Dalvik/2.1.0 (Linux; U; Android 8; SM-J604M Build/OPD1.621846.016)
-Dalvik/2.1.0 (Linux; U; Android 7; Redmi Note 170 Max Build/NB67JX)
-Dalvik/2.1.0 (Linux; U; Android 10; Mi A564 Max Build/QQ1C.969567.026)
-Dalvik/2.1.0 (Linux; U; Android 15; Realme 891U Build/TQ1A.174643.053)
-Dalvik/2.1.0 (Linux; U; Android 6; Sony Xperia B469 Ultra Build/MA6JQ0)
-Dalvik/2.1.0 (Linux; U; Android 12; Honor H616 Ultra Build/SQ1D.566667.036)
-Dalvik/2.1.0 (Linux; U; Android 12; Mi 214B Build/SP2A.172922.048)
-Dalvik/2.1.0 (Linux; U; Android 9; Honor F485 Build/PQ3A.923253.012)
-Dalvik/2.1.0 (Linux; U; Android 10; RMX5853 Build/QD4A.542208.050)
-Dalvik/2.1.0 (Linux; U; Android 8; LM-Q30 Ultra Build/OPR4.438009.092)
-Dalvik/2.1.0 (Linux; U; Android 10; Oppo 369 Pro Build/QQ2A.310355.052)
-Dalvik/2.1.0 (Linux; U; Android 12; Nokia NR305 Ultra Build/SD2A.466413.091)
-Dalvik/2.1.0 (Linux; U; Android 7; Realme G392 Ultra Build/NI8SCA)
-Dalvik/2.1.0 (Linux; U; Android 12; LG-829D Build/SQ3A.830591.076)
-Dalvik/2.1.0 (Linux; U; Android 14; SM-N877ES Build/TP1A.312883.027)
-Dalvik/2.1.0 (Linux; U; Android 13; Itel I750S Build/TQ1A.433407.060)
-Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia 807 Ultra Build/OPM8.852892.068)
-Dalvik/2.1.0 (Linux; U; Android 14; Honor I765T Build/TP1A.685140.066)
-Dalvik/2.1.0 (Linux; U; Android 15; Vivo 595T Build/TQ1A.787937.015)
-Dalvik/2.1.0 (Linux; U; Android 11; LG-498K Build/RD1A.824542.016)
-Dalvik/2.1.0 (Linux; U; Android 11; Itel Y56 Ultra Build/RQ1C.696832.072)
+Mozilla/5.0 (Linux; Android 6; Nokia N665O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.7742.555 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; RMX3317) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4737.342 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Honor S483 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.2812.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme G93L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.8732.275 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Honor W335T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.8371.906 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Infinix T585 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7943.727 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; RMX4104) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.3333.403 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei T607W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.8155.991 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi C993D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.3511.823 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Oppo 127T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.2163.815 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Vivo 145T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.2321.874 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Redmi Note 60Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.9989.715 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha N687 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5635.828 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha 905T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2637.342 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Oppo E980 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.8994.461 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note W910 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.9933.486 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Realme 733T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.6512.681 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Honor O537E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.2364.648 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Infinix 447 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.1634.575 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Honor 348 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4263.903 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; SM-M111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.6764.170 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Oppo E552 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3149.824 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; SM-N859B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3135.795 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia NK904T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.6923.625 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia 796 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.6136.286 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Infinix 576 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4516.275 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG-843O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4115.757 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi 11 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3700.432 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi Q685T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.8976.843 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Sony Xperia 539 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.1570.279 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Honor 720T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1985.570 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 985) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3955.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 613Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.1177.703 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel X414Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.7056.281 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Mi 517H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.2331.679 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Infinix 136Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3955.475 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Sony Xperia 490 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.9998.238 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 660Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5201.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Itel 275 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.1264.426 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi L253 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3453.603 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; SM-F964ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.2267.413 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo 271J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.5858.138 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG-707M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.2143.844 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo V860T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4259.248 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Infinix 73 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.8384.383 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Infinix S591T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4116.290 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel Y295 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4035.224 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Itel O600S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.8163.518 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia 795 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.2865.984 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia NL406 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5882.907 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Vivo U934 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3170.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia Asha U335T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5782.418 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo 144T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.9775.125 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-N938F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.7681.645 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Nokia N401 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4911.413 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Sony Xperia 566D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.7985.499 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LM-E558 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.8206.753 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; LM-N644T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.2315.774 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel 271T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.3128.342 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia NL795 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.6826.498 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia H822) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3110.348 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Oppo K897 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4088.601 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia Asha A825 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.9077.654 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia Asha 399Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2662.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi I176) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.3391.339 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG-46C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.3824.614 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; RMX1888) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.6910.936 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi 774 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.7636.367 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Vivo 305T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5969.149 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi Note 75 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4311.554 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 20Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.3424.892 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Infinix Q146) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4771.513 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi Note 192 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3968.795 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi 241T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.3279.619 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi 94 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.2218.408 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Oppo 412T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.5611.642 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Mi T142 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.9242.240 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Vivo Q675 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.9331.601 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mi 836T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.7099.521 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Honor K802) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.6917.625 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Infinix D101 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.8541.496 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor 165T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.9477.112 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Huawei D186T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.4142.887 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Oppo W439 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.7001.690 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 927D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.1913.879 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 970) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.3960.907 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Vivo 66 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.1855.516 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia NF342T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.7355.415 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi 702O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1756.709 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia Asha 706 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5007.886 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia N486M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.3907.124 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Huawei 55D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.7640.369 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Vivo 100T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4347.625 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LM-K738) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.5646.657 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; RMX7271) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.8730.956 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Honor U507T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.7708.340 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Vivo R978 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.1014.530 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; RMX2231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.5912.665 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Honor Z267 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4746.792 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia Asha G295D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3382.950 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel K51 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4705.299 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Nokia NY51T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.2588.657 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Sony Xperia 894 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5156.805 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Oppo T619 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.2905.740 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Oppo 811 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.7146.202 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia NU607T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.9951.379 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 20 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.2406.528 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; SM-S187ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5693.559 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Itel L488T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4312.938 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-M604F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.7067.331 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-S318D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6853.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Vivo C593T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.6573.564 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Sony Xperia 129 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4124.881 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia NJ407 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.1533.929 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia NJ494 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.6078.646 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Huawei 747T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.8365.728 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix V651) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4371.895 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; LM-E564 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.7282.452 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Honor B341 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4419.502 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-J951F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.1491.342 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia NM492 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.8629.979 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel N540T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3502.454 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Infinix Y759 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.7108.432 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; RMX4591) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.8475.541 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX5645) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.1749.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Honor B321 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.1117.763 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei B997 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.8981.731 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia N436 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.6637.937 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 570R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.1821.988 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Honor 605 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.2528.314 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei 352 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.8428.464 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei A899 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.9139.771 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Realme V729L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9059.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Itel S268A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.3770.522 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Itel 513 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.2315.541 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Infinix E245 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.9685.380 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Itel U710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5877.885 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Itel 878 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.7598.899 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Mi 331 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.2423.864 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel I960 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.2454.634 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Huawei N623T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.7367.804 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LM-L751 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.4477.763 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi 978 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4561.948 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha B237 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.8145.741 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor 640Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5778.362 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note J109T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.7455.397 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo 368 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.6068.911 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi 411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.8113.228 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; LM-26 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.7935.754 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Redmi 241Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.5128.479 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi O428 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4533.950 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LG-475D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.6747.427 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Redmi 437T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.4099.876 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 887L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4714.719 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Oppo T634N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.6253.627 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; SM-M616F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.7823.100 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi X702 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.2045.648 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha F775X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4073.532 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi N373 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.2225.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Oppo O741T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3195.433 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Oppo T685T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.6201.428 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-603U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.8909.145 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel O963 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.2124.991 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia C643) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.8657.946 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; SM-N951ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5480.387 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi U805T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.8393.192 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Realme 339 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3397.786 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 617) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4316.498 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Infinix S368G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.6911.336 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-S309ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.6607.680 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG-782Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.8799.261 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note E135) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4434.935 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi 992T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4830.250 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX4225) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.1225.172 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Huawei J560 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3981.382 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Itel 875T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.1635.518 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia S660U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.6349.663 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG-460I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.9049.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel I757 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3049.954 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LM-991T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.6618.307 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; LG-678A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4981.954 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei L769 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4054.750 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-930C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3221.228 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Vivo 738 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5435.456 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme O546 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.8304.856 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; SM-F941B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.5715.283 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX1195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.9704.403 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Huawei 607 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.7300.797 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Realme 699Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5709.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia ND337 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.2439.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi 259T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.6899.646 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Huawei 412C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4959.555 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi 278 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.2505.540 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi 431 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.6722.184 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Honor R296W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.8462.462 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG-513M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.6313.823 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Vivo T115 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.8409.412 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel 354T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.6414.144 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel 13 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.7720.657 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia N844O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.8610.210 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi S554 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5820.910 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Sony Xperia S826C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.7150.892 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N791B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.9669.926 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi Note T480T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.6844.418 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-A277B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.2453.182 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia NN656C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.9869.550 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG-751U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.1805.259 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Sony Xperia G493 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4203.242 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; SM-S225B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.6590.423 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Vivo 894 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3383.403 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Vivo 22T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.6549.368 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia NG325T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4122.618 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Infinix 76W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.2601.560 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Huawei 620P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.7241.319 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Oppo T651 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5350.515 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia Asha U802 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.2914.937 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo C93 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5962.906 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Redmi H762) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.6609.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Oppo 143) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.7070.469 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia 442T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.9325.648 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha I625 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.2484.289 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG-76L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.9874.732 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX9114) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3648.962 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia NY395T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.2971.776 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-36C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.7339.965 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Huawei H732T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.7850.589 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Redmi Note 191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3250.884 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Honor P644 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.6225.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha R465 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.6948.243 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Sony Xperia Q405 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.3993.600 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Realme 68A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.3921.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha Y303D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.2603.819 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi 585W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5383.981 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Huawei T265I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4652.801 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Itel 928) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.7445.399 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Oppo 868 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4023.450 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Oppo V575 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.6011.823 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; SM-S971B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3824.581 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Oppo U337 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.1197.871 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Honor Z747 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5941.268 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Infinix U30 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.4302.346 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia Asha J609) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.6930.476 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note P324A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.8112.611 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LM-A746W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.7670.728 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; RMX2411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4850.782 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi 648 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.2959.739 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-J567D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6471.157 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 249 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3996.933 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 501 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.7318.214 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel 757 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.1992.487 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel P15 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.3273.529 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Itel P608T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.2717.136 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor 401W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.7155.961 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Sony Xperia 717 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.8182.284 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha 692 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.6908.180 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG-804A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.2200.161 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Sony Xperia 860P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.5776.416 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha 183) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.9785.939 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Mi U873 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9423.481 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Vivo 775N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3196.897 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-J906ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.2022.704 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Infinix 29T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.8844.621 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG-746Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.9326.151 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG-286E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.7301.388 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 50 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1297.351 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi Note 677 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.2216.863 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme 709T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3874.267 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note R612 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.2698.574 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel 642 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.2319.822 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel 142 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5093.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo 958T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.1193.341 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia NH111T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.9066.445 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia Asha 417 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3916.836 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia NH642T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1329.522 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Honor 722T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.1320.703 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia ND795T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.3975.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia Asha Q313T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6415.527 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Huawei 882T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.1692.378 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia 312T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.8482.587 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Itel B136) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.9005.741 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel 724 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.3259.419 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Huawei 342 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.7045.712 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Itel W412 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.8497.732 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Oppo 784T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3208.336 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-S933F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5829.434 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix 648 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.3589.834 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi H698T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.8307.292 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha U874 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.2379.210 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note F661 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.2427.695 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Sony Xperia R337 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.5578.295 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; RMX6150) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.2054.932 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; RMX3513) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.3003.197 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 118L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.2168.667 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Itel 280 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.3031.104 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-S715ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.9514.187 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LG-117O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5758.561 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel 16T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.8316.526 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme A121T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6804.458 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Mi V418) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.7734.739 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG-867M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.6025.455 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; RMX5622) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3413.268 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Mi O489 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.1361.316 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Redmi 375 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.8044.436 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; SM-F117ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.8643.405 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix L848 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4516.977 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Honor 184) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.7812.871 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Realme M662T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.7873.997 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Vivo 551 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3733.472 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Huawei 281 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5615.230 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Honor 719 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.9111.361 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Infinix V633 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5138.412 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-N472ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4988.546 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LM-R721 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.6028.940 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha Z375V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.1059.518 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo J892 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.8745.881 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Mi C424T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3961.810 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 939T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.1064.896 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel 543M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.6970.528 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo N986 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.2094.481 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi 882) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.7839.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Oppo W342 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.8100.128 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Oppo 58 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.6774.983 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei S84 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.5069.553 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi K792N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3933.303 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Infinix 983B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.1441.657 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia 62 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4063.110 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia N717 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.6430.659 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Mi D179 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1319.156 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme D62T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.8336.911 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Huawei R330T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.2653.571 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi Note 947 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.9925.550 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia N53) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.2768.776 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi R295X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.8138.755 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; LG-109M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.2142.164 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Sony Xperia L284X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.1938.952 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 264 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.6596.525 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Vivo R563 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.2471.995 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo F189T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9819.868 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia NW71T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3890.377 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor 751 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.1247.530 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia N974 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.2157.887 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-J658B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.2695.380 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG-332C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4438.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei U762 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.6712.527 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Infinix P214 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.8607.623 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi Note I735) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.3850.603 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel R370S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.8264.837 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG-290M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4941.339 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme K892T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7034.659 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Oppo D221E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5809.874 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 687T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.3794.941 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme Q196 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.2461.570 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi Note B751 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.8040.250 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Nokia NF227D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.2795.502 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 978 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4525.881 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX3379) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.3476.882 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme R534T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.2530.229 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo Q633 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.2920.462 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Huawei 153D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.7531.594 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia S776 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2324.773 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia N943 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4396.375 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme F289 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.2689.339 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha 301) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3076.961 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor I275N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.6926.937 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Infinix C165T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.3570.386 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2498) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.1930.228 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; LG-231J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.5373.680 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Honor A721C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.3284.364 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Redmi Note X824 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.4737.543 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel S567T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.2062.273 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Realme F644 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.3431.712 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Infinix D500T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.5975.321 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-M198B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.7546.662 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note 806E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.1634.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo 187 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1862.979 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; RMX1156) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.8263.928 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note T474) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.5932.584 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note O249T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.6537.749 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Itel A153T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4539.787 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Sony Xperia 290M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.2212.916 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi O844 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6771.401 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 429 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.7056.655 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LM-698 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.5557.242 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Oppo Z452 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5239.702 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi H966T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7445.378 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo 231 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.3223.555 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Infinix L23 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.9426.706 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia Asha Y594U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.1335.651 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX7423) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5786.462 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Honor 900 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3522.536 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; RMX6021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.8107.809 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Honor 386T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.1153.508 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia N673 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.6898.894 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi J895 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3274.106 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel 995N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.8052.328 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Itel G245 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.5813.603 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi 698T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.3908.453 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG-133R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.1555.310 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel K588 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.1013.638 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Sony Xperia G929I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.2166.314 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo L397 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3337.799 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 679 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.9845.963 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; SM-J659B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4418.885 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia N66T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.9882.482 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-M742ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.8876.436 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha 60 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.4594.102 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo T642V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.1195.636 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note G396T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.2670.335 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia Y328 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.4485.686 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia T781 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.5412.310 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha 965E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.3309.833 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia Asha 792K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3492.856 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia NC871 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.2820.908 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Oppo 266 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.1033.488 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-J241B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4382.317 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Itel B847T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.2020.675 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Realme H299F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.8612.531 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Huawei N517) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3381.348 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX4886) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.6936.691 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Redmi Note C347E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.3091.278 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo 542 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.9078.560 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Mi 635 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.1196.228 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi Note 161T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.9778.670 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi R596) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.7298.168 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG-681C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.1341.465 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Oppo 870 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3019.703 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2769) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.1911.674 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Huawei R735T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.2810.637 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi 368O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4423.209 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia N441 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.7766.177 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; SM-J377F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5655.343 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Vivo Q777R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.3486.452 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha 440 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.2980.370 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note 395 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.8741.997 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei 884 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.2545.578 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Vivo 821V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.7571.119 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Infinix 536 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.1737.196 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei 514 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.3110.405 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia 98X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.4639.908 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG-991G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.6288.716 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note C635 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.2778.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Redmi U726G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.1235.189 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Redmi 389C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3411.542 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Oppo 433 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.6978.473 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LG-236J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.1114.935 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Redmi Note K613 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5197.738 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; SM-F887ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.6210.768 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Oppo O533 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.7149.943 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; RMX4522) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.9520.519 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LM-L403T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.8532.169 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Nokia NL542) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.1956.309 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia 306T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.1522.341 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Q572W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.8131.864 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Infinix X28M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.8215.363 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi Note Q502) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.5336.741 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-M318ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.3215.389 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha C48H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.2559.103 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel D613T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.1301.558 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Itel B901 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.7999.478 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi 261Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.7981.996 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; RMX9837) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.3790.423 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Honor F353 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.3816.212 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi Note G225G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.1849.901 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Huawei 272H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.4618.823 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia Asha 728 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.9783.821 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG-656Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.9949.265 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-324F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.6083.927 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Honor 788T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.6738.922 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Realme 203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.1317.803 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Nokia NN309) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3853.230 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Oppo G122U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.4917.623 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Itel R498 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3994.169 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Huawei 477T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.4170.831 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Realme J206 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5269.934 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia Asha B590T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.9702.457 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha W752 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.9422.425 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia 390 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3694.771 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia D414 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.4684.583 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; LG-603F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4607.906 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LM-P285 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.7711.539 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Mi 639 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.8685.696 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LM-Q754T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5844.894 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LG-127U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.4503.781 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Infinix E811 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.3157.288 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Honor O54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4259.435 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX5531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.7294.202 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Huawei V320) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.6528.825 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; LG-508V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.1566.692 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX2719) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4818.333 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix P366 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.9905.757 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 43T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.8322.277 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Infinix 788T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.8690.331 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; SM-N139B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.8815.972 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Infinix D713 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4119.690 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Honor 128) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.6854.135 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia N917M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4054.121 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia NE534T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.8362.281 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Oppo N800T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.2102.840 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Honor 480L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.5453.253 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Nokia NQ722T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.6442.442 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; LM-886) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.2481.336 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 433U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.3184.613 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel 707) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.1568.911 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LM-748) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4962.579 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 547T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4073.516 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor 428 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.2520.345 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi Note 84 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.8108.351 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Sony Xperia W289 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.7293.881 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Realme 57) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.2279.185 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Realme H17Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.9675.769 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 402 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.1728.263 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia 877 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.7310.474 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Oppo 203 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.9407.623 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Honor Y965 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4842.576 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Oppo W102T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.3659.132 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Honor Z99 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.1047.441 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Oppo S211 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.1708.730 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi 652T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.1458.467 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; RMX5801) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.7322.330 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Sony Xperia 643C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.1677.920 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia Asha W143 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.8893.958 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; RMX4355) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.8228.712 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Vivo W768 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.5901.431 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia Asha 647P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.6214.761 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG-695F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.7334.384 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix 771M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.2037.910 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; LM-S816 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.2774.947 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Itel K989 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.8476.466 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Huawei 88 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.8320.332 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Itel F586R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4716.598 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Infinix L803W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.3494.179 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi Q119 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.9674.985 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 450 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.4091.328 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Vivo 97T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.6113.542 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia Z618) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.1053.520 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme B227 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.9237.552 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Oppo 382X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.1484.818 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; RMX5101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5575.604 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Realme S343 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.6434.793 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Infinix 462 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.3582.521 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi I497C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.7772.285 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-A189F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.5565.583 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Sony Xperia 610 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.6625.992 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Oppo 438 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.7444.405 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Sony Xperia A656 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.5738.282 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; SM-S675ES) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.3159.413 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Redmi Note 312 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.5088.122 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel L495 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.8199.581 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX7865) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.1489.806 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi 672) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.8990.967 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel 116 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.6759.777 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Infinix 691 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.6100.438 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Vivo G588) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.6781.754 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Huawei 173 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.8690.552 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; SM-M147B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.6966.890 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-S783B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5449.348 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei C567C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.5897.671 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Oppo N611T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.4835.130 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LG-541G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.1688.186 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Honor 875 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.1587.647 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LG-834N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.9546.169 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Infinix B161T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.8372.377 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Itel E95 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.2492.612 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Itel V344 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.9288.493 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Realme 938F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.9364.834 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Itel J619) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.5395.589 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo 33O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.3299.927 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia N713T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.3779.442 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi Note 991 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.3371.837 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia Asha 876 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.6714.686 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; SM-F624D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.8444.495 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 426) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.7496.158 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; LM-F20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.6043.967 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei 454 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.5060.341 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Oppo U990T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.4189.169 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Sony Xperia J317T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.4943.617 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia N700 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.2455.114 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Redmi D200) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.6912.511 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Huawei 45) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9811.265 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Honor B303 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.8339.352 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; LG-985Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.1229.467 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Realme 220I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.9382.428 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia Asha 111W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.3004.467 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; LG-608S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.7652.711 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Itel 436T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.4273.669 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Vivo 389T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.2835.560 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Nokia Asha H137T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.2970.432 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note M851 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.1851.851 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; SM-N975D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.6854.918 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LG-984U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.9160.475 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Vivo C776 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.6494.730 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LG-901L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.3685.350 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia ND136 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.6670.628 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi H366 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.3613.874 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Vivo 81T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.2401.797 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Infinix 412V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.3306.374 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel M433 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.7723.159 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Nokia Asha R418T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4058.319 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Infinix 551 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.7961.105 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Huawei S893 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.7422.332 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Honor 946X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.3224.826 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; LG-115O) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.6944.347 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; LG-690H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.9095.481 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; RMX3890) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.7107.620 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LM-64 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.7342.711 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 15; Redmi I708S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.7864.751 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Huawei S297M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4911.705 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Vivo 982S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.7730.901 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; SM-S725F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.1331.474 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Vivo 659 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.2546.682 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia N443) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.5298.354 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Infinix 207H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.2604.440 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; Nokia N233T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.8803.817 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Infinix 271C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.2027.821 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Infinix 978 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.5130.675 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Oppo 958J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.2851.564 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia NI11Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.3185.294 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Realme 577B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.5349.531 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Huawei O910D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.1446.484 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia 625 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.3379.934 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; SM-F920F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4385.883 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Infinix E535) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.6705.641 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Honor W604) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.2772.293 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; RMX2371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.6553.410 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel A57 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.1909.489 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Redmi Note 729T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.9613.174 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; RMX6160) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4104.969 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Redmi V456 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.1021.453 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Infinix Q793) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.7273.491 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo 44 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.1252.238 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Vivo 545) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.1340.173 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; LM-916 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.6071.131 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel H490 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.6956.339 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Sony Xperia T951G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4565.837 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Itel 701E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.6805.163 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Nokia NJ382T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.2775.696 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LG-671T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.5810.390 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Sony Xperia B867 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.8145.906 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 14; Redmi K578 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.7677.872 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; RMX2705) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.2937.224 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Realme 478 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.9884.579 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Nokia NB681 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5752.526 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia Asha X908 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.2058.849 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; LG-186Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.7409.757 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Vivo 41G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.3881.217 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Itel 475R) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.6621.113 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Mi J751E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.1578.362 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; Nokia N882 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.5245.397 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 7; Itel 863) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5689.243 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Nokia NV769I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.6527.817 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi 469B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.3005.244 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia H102T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.7949.529 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; Infinix 729T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.8641.818 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Sony Xperia H205T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4933.147 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8; LM-375T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.2909.295 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 6; RMX6917) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.3176.853 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Huawei 208 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.4417.240 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Honor F721) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.8227.438 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Sony Xperia 538) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4670.833 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 5; Infinix 359T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.7330.877 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 9; Redmi Note 148 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.1483.956 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 10; Nokia NG475 Ultra) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5194.872 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 12; Nokia N24T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.8650.832 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 11; Huawei H223 Max) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.9954.744 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4; Huawei 371T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/82.0.9733.398 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 13; LM-335) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.7018.192 Mobile Safari/537.36
